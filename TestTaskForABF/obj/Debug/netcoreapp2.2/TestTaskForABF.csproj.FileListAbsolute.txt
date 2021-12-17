@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\bin\Debug\netcoreapp2.2\TestTaskForABF.deps.json
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\bin\Debug\netcoreapp2.2\TestTaskForABF.runtimeconfig.json
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\bin\Debug\netcoreapp2.2\TestTaskForABF.runtimeconfig.dev.json
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\bin\Debug\netcoreapp2.2\TestTaskForABF.dll
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\bin\Debug\netcoreapp2.2\TestTaskForABF.pdb
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\obj\Debug\netcoreapp2.2\TestTaskForABF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\obj\Debug\netcoreapp2.2\TestTaskForABF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\obj\Debug\netcoreapp2.2\TestTaskForABF.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\obj\Debug\netcoreapp2.2\TestTaskForABF.AssemblyInfo.cs
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\obj\Debug\netcoreapp2.2\TestTaskForABF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\obj\Debug\netcoreapp2.2\TestTaskForABF.dll
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\obj\Debug\netcoreapp2.2\TestTaskForABF.pdb
+C:\Users\User\Desktop\TestTask\TestTaskForABF\TestTaskForABF\obj\Debug\netcoreapp2.2\TestTaskForABF.genruntimeconfig.cache
